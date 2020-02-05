@@ -1,6 +1,6 @@
 const express = require('express');
 
-const Hubs = require('./hubs/hubs-model.js');
+const Hubs = require('../hubs/hubs-model.js');
 
 const server = express();
 
